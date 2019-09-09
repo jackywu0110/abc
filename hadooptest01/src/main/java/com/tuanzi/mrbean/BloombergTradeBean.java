@@ -1,4 +1,4 @@
-package com.itheima.mrbean;
+package com.tuanzi.mrbean;
 
 import org.apache.hadoop.io.Writable;
 

@@ -1,4 +1,4 @@
-package com.itheima.mrdemo;
+package com.tuanzi.mrdemo;
 
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.conf.Configured;

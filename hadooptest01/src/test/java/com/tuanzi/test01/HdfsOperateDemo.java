@@ -1,4 +1,4 @@
-package com.itheima.test01;
+package com.tuanzi.test01;
 
 import org.testng.annotations.Test;
 

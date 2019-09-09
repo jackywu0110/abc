@@ -1,7 +1,6 @@
-package com.itheima.mrdemo;
+package com.tuanzi.mrdemo;
 
-import com.itheima.mrbean.BloombergTradeBean;
-import org.apache.hadoop.io.IntWritable;
+import com.tuanzi.mrbean.BloombergTradeBean;
 import org.apache.hadoop.io.LongWritable;
 import org.apache.hadoop.io.NullWritable;
 import org.apache.hadoop.io.Text;

@@ -1,4 +1,4 @@
-package com.itheima.mrdemo;
+package com.tuanzi.mrdemo;
 
 import org.apache.hadoop.io.IntWritable;
 import org.apache.hadoop.io.Text;
